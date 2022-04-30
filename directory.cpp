@@ -2,8 +2,6 @@
     ==================================================
     Phone Directory
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : January 23, 2022
 */
 
 #include <iostream>
